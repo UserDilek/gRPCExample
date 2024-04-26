@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\GrpcService1\\ClientForgRPC"
   ],
+  "SelectedNode": "\\GrpcService1",
   "PreviewInSolutionExplorer": false
 }

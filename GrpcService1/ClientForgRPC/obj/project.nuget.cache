@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "TCJ8WXgmG/WnrL+sOuBZrUwFWgKU537UWKVAdbMEWgGR6xluSy1Two3Jv0citETlcj0I3SNuL4CpwtLAT2imdg==",
+  "dgSpecHash": "tQOp1sOXtOvEgC5PGPUEyJ3NjNnmhMGnQDjBb3wQc8bSVVXtZl18RKyuRw47yZGh1KfRZlFWKns4V5K4HQLe7g==",
   "success": true,
   "projectFilePath": "C:\\Users\\ozgur\\source\\repos\\gRPCExample\\GrpcService1\\ClientForgRPC\\ClientForgRPC.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ozgur\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",
+    "C:\\Users\\ozgur\\.nuget\\packages\\grpc.core.api\\2.62.0\\grpc.core.api.2.62.0.nupkg.sha512",
+    "C:\\Users\\ozgur\\.nuget\\packages\\grpc.net.client\\2.62.0\\grpc.net.client.2.62.0.nupkg.sha512",
+    "C:\\Users\\ozgur\\.nuget\\packages\\grpc.net.common\\2.62.0\\grpc.net.common.2.62.0.nupkg.sha512",
+    "C:\\Users\\ozgur\\.nuget\\packages\\grpc.tools\\2.62.0\\grpc.tools.2.62.0.nupkg.sha512",
+    "C:\\Users\\ozgur\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
